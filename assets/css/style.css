@@ -1,0 +1,11 @@
+#page-wrapper{
+	margin:0 !important;
+}
+
+.help-block{
+	color:red;
+}
+
+.modal-dialog{
+	width: 800px;
+}
